@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">hashtagCounter</string>
+    <string name="enter_hash_tag">enter hash tag</string>
+    <string name="hint">hint</string>
+    <string name="name">Name</string>
+    <string name="enter_date" />
+    <string name="enter_date_from" />
+    <string name="enter_date_untill" />
+    <string name="enter_date_fro">enter_date_from</string>
+    <string name="date_from">date_from</string>
+    <string name="date_untill" />
+    <string name="date_upto" />
+    <string name="date_untilll">date_untilll</string>
+    <string name="submit">submit</string>
+    <string name="back4app_client_key">EE8As7EThUEVgcM2s6836TxHlwGBj8paQbXz04qa</string>
+    <string name="back4app_app_id">gMdu20nXk5kJxLNEFLe3nxL5t5jihryoWWoNKQtL</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="twitter_consumer_key">GsXVeQeFX9NdCXdgeNOXJPiRP</string>
+    <string name="twitter_consumer_secret">sznedrxq8WPZRIZS4MSGCp4R4hFQWe1FuLCNUKtKr2fdzNrYga</string>
+    <string name="twitter_access_token">714135485635960832-Ns8SsVOlBfkg1cxFhHVYQv89pvGGt2P</string>
+    <string name="twitter_access_secret">5fZPVOl4dnqV8RMOGPXo3siLY0DLFRIlMWEF8ZinAJN6h</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">Fw4cXXXXXXXXXXX</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Pnr7XXXXXXXXXXX</string>
+    <string name="Press_submit_2nd_time_after_some_time">Press_submit_2nd_time_after_some_time</string>
+
+</resources>
